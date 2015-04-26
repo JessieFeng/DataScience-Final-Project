@@ -3,10 +3,11 @@
 1. Required installments:
  Django
 
-
 2. How to run
 Open terminal, cd into RestaurantAPI folder
+
 Run server command:  python manage.py runserver 8000
+
 open in browser http://localhost:8000/YelpAPI/
 
 3. Basic Django:
