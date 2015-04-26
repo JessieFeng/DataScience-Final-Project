@@ -15,7 +15,7 @@ models – store database schema
 •	Run python manage.py makemigrations to create migrations for those changes
 •	Run python manage.py migrate to apply those changes to the database.
 
-views – interfaces
+views – webpage/interfaces
 
 Templetes – store HTML templete files
 
