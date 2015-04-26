@@ -1,0 +1,4 @@
+-- with open('some/path/to/file.csv') as f:
+--     reader = csv.reader(f, delimiter=',')
+--     header = next(reader)
+--     Foo.objects.bulk_create([Foo(first_name=row[0], last_name=row[1]) for row in reader])
